@@ -4,8 +4,8 @@ This repository contains code accompanying the paper [Are they human? Detecting 
 
 ## Structure
 
-- `/experiment` contains code and instructions for running the smile-based online experiment
-- `/detection` contains code and instructions for running the LLM detection pipeline
+- [`/detection`](https://github.com/smonsays/llm-humanness/tree/main/detection) contains code and instructions for running the LLM detection pipeline
+- [`/experiment`](https://github.com/smonsays/llm-humanness/tree/main/experiment) contains code and instructions for running the smile-based online experiment
 
 ## Abstract
 
