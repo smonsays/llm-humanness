@@ -1,0 +1,54 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+coverage
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.gitsecret/keys/random_seed
+!*.secret
+/css/styles.css
+/docs/.vitepress/cache
+/public/qr.svg
+/data/private/**
+env/*.txt
+env/*.tar.gz
+env/*.zip
+
+# Firebase service account
+*.service-account*
+components.d.ts
+/.vite
+
+# Python
+analysis/.venv/
+analysis/__pycache__/
+analysis/*.egg-info/
+analysis/.ruff_cache/
+*.pyc
+__pycache__/
+.marimo/
+
+# Test coverage
+analysis/htmlcov/
+analysis/.coverage
+.pytest_cache/
+analysis/notebooks/__marimo__/session
