@@ -1,6 +1,6 @@
 # Are they human? Detecting large language models by probing human memory constraints
 
-This repository contains code accompanying the paper [Are they human? Detecting large language models by probing human memory constraints](https://arxiv.org/abs/xxxx.xxxxx).
+This repository contains code accompanying the paper [Are they human? Detecting large language models by probing human memory constraints](https://arxiv.org/abs/2604.00016).
 
 ## Structure
 
@@ -24,7 +24,7 @@ Our results demonstrate that it is viable to use well-established cognitive phen
   title={Are they human? Detecting large language models by probing human memory constraints},
   author={Schug, Simon and Lake, Brenden M.},
   year={2026},
-  url={https://arxiv.org/abs/xxxx.xxxxx},
-  journal={arXiv preprint arXiv:xxxx.xxxxx}
+  url={https://arxiv.org/abs/2604.00016},
+  journal={arXiv preprint arXiv:2604.00016}
 }
 ```
