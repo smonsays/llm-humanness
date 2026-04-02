@@ -13,7 +13,7 @@ First install all node dependencies (this assumes `npm` is installed on your sys
 npm run setup_project
 ```
 
-Then locally start the experiment and navigate to [http://localhost:3020/head/](http://localhost:3020/head/).
+Then locally start the experiment (e.g. `npm run dev`) and navigate to [http://localhost:3020/head/](http://localhost:3020/head/).
 
 ## Running an LLM participant
 
